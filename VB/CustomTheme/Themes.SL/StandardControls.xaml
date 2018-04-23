@@ -1,0 +1,22 @@
+﻿<ResourceDictionary 
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <ResourceDictionary.MergedDictionaries>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/Button.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/RadioButton.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/CheckBox.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/Slider.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/ScrollBar.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/ProgressBar.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/ScrollViewer.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/TextBox.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/ListBox.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/ComboBox.xaml"/>
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/ToolTip.xaml"/>
+        <dx:ProductResourceDictionary ProductAssembly="System.Windows.Controls" ProductSource="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/Themes.SL/StandardControls/TabControl.xaml"/>
+        <dx:ProductResourceDictionary ProductAssembly="System.Windows.Controls" ProductSource="/DevExpress.Xpf.Themes.Office2007Silver.v10.2;component/DevExpress.Xpf.Core/DevExpress.Xpf.Core/Themes/StandardControls/TreeView.SL.xaml"/>
+
+        <ResourceDictionary Source="/DevExpress.Xpf.Themes.Office2007SilverExtension.v10.2;component/Themes.SL/StandardControls/Button.xaml"/>
+    </ResourceDictionary.MergedDictionaries>
+</ResourceDictionary>
